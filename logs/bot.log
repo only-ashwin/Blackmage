@@ -1,0 +1,129 @@
+2021-06-18 14:08:29,615:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:09:48,121:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:11:37,471:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:11:44,348:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:12:03,843:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:12:14,420:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:12:20,204:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:12:39,836:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:13:01,883:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:13:07,131:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:13:23,925:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:13:45,316:[[1;31mERROR[0m]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 28, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:14:02,626:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 28, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:15:28,440:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 28, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:15:37,292:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:16:57,380:[DEBUG]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:17:23,153:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 27, in on_ready
+    self.logger.debug(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:17:41,099:[ERROR]:BlackmageClient.py:Traceback (most recent call last):
+  File "C:\Users\hp\.virtualenvs\Blackmage-dQEhARCn\lib\site-packages\discord\client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "E:\Discord Bot\Python\Blackmage\src\BlackmageClient.py", line 26, in on_ready
+    self.logger.info(f"Logged in as {self.use}")
+AttributeError: 'BlackmageClient' object has no attribute 'use'
+
+2021-06-18 14:17:53,626:[INFO]:BlackmageClient.py:Logged in as Blackmage#4109
+2021-06-18 14:18:11,848:[INFO]:BlackmageClient.py:Logged in as Blackmage#4109
+2021-06-18 14:18:34,301:[INFO]:BlackmageClient.py:Logged in as Blackmage#4109
